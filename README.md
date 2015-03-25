@@ -25,7 +25,7 @@ docker build -t nemid-tu-example .
 ```
 docker run -it -p 8080:8080 nemid-tu-example
 ```
-Note: To stop the docker container press ctrl+c.
+Note: To stop tomcat and the docker container press ctrl+c.
 
 ## Open the url in a browser
 Since the docker image was started in interactive mode, go to another terminal window
