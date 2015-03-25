@@ -1,8 +1,8 @@
 
 # How to run the NemID TU Example war-file with Docker on Mac OS X
-This project documents how to get the NemID TU Example from
+This project describes how to get the NemID TU Example from
 http://www.nets.eu/dk-da/Service/kundeservice/nemid-tu/NemID-tjenesteudbyderpakken-okt-2014/Pages/default.aspx#tab3
-up and running using https://www.docker.com on Mac OS X.
+up and running using Docker and Tomcat on Mac OS X.
 
 
 ### Install boot2docker
