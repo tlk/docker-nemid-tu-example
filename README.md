@@ -16,7 +16,7 @@ eval "$(boot2docker shellinit)"
 
 ### Build the docker image
 ```
-git clone https://github.com/tlk/docker-nemid-tu-example.git
+git clone git@github.com:tlk/docker-nemid-tu-example.git
 cd docker-nemid-tu-example
 docker build -t nemid-tu-example .
 ```
