@@ -31,7 +31,6 @@ Note: To stop tomcat and the docker container press ctrl+c.
 Since the docker image was started in interactive mode, go to another terminal window
 and open the url from there.
 ```
-eval "$(boot2docker shellinit)"
 open http://$(boot2docker ip):8080
 ```
 
