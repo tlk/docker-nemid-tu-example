@@ -25,7 +25,7 @@ docker build -t nemid-tu-example .
 ```
 docker run -it -p 8080:8080 nemid-tu-example
 ```
-Note: To stop tomcat and the docker container press ctrl+c.
+Note: To stop tomcat and the docker container press <kbd>Ctrl</kbd>+<kbd>c</kbd>.
 
 ### Open the NemID TU example web application in a browser
 Since the docker container was started in interactive mode, go to another terminal window
