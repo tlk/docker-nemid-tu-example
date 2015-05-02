@@ -21,7 +21,7 @@ cd docker-nemid-tu-example
 docker build -t nemid-tu-example .
 ```
 
-### Start the docker image
+### Run the docker container
 ```
 docker run -it -p 8080:8080 nemid-tu-example
 ```
