@@ -28,7 +28,7 @@ docker run -it -p 8080:8080 nemid-tu-example
 Note: To stop tomcat and the docker container press ctrl+c.
 
 ### Open the NemID TU example web application in a browser
-Since the docker image was started in interactive mode, go to another terminal window
+Since the docker container was started in interactive mode, go to another terminal window
 and open the url from there.
 ```
 open http://$(boot2docker ip):8080
